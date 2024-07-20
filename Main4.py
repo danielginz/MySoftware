@@ -7,3 +7,4 @@ def welcome():
     return "New Screen"
 print(welcome())
 
+print("Your click and screen are ready.")
