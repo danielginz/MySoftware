@@ -8,3 +8,4 @@ def welcome():
 print(welcome())
 
 print("Your click and screen are ready.")
+print("Your click and screen are ready 2.")
